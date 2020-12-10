@@ -1,0 +1,18 @@
+{% extends 'base.html' %} {% block body_block %}
+<div class="form-container mx-auto">
+    {% if token %}
+        <h3>Applicant Information</h3>
+        <hr class="hr_style">
+
+        <form method="POST" class="mt-5" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <input type="submit" class="btn btn-primary mt-4" value="Submit" />
+        </form>
+    {% else %}
+        <h2>Invalid Token</h2>
+        <a href="{% url 'login' %}" class="btn btn-primary">Login</a>
+    {% endif %}
+</div>
+
+{% endblock %}
