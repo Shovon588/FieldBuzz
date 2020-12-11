@@ -1,6 +1,4 @@
-<div style="background: #00a99d; text-align: center; color: #000; padding-bottom: 8px">
-    <h2 align="center">Field Buzz Recruitment</h2>
-</div>
+<h1 align="center">Field Buzz Recruitment</h1>
 
 
 <h3>Applicant: Md. Minul Islam Shovon</h3>
@@ -65,4 +63,5 @@ pip and installed virtualenv python package in your machine.</p>
     <li>Get updates on my<a href="https://minulislam.xyz/" target="_blank"> Portfolio</a> 🕸</li>
     <li>Connect me in <a href="https://www.linkedin.com/in/mainulislam588/" target="_blank"> Linkedin</a> 💼</li>
 </ul>
+
 
