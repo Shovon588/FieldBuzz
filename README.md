@@ -33,7 +33,7 @@ pip and installed virtualenv python package in your machine.</p>
     <i>"python manage.py migrate"</i></span> command and then do a 
     <span style="background: #acacac; color: black; padding: 5px">
     <i>"python manage.py runserver"</i></span> command.</li>
-    <li>This will start a local server on port 8000.</li>
+    <li>Make sure to run the migrate command and this will start a local server on port 8000.</li>
     <li>Open a web browser of your preference and open 
     <span style="background: #acacac; color: black; padding: 5px">
     <i>"http://127.0.0.1:8000/"</i></span> this address which will 
