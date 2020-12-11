@@ -1,10 +1,5 @@
-<div style="background: #00a99d; padding: 10px; text-align: center ">
-    <img src="https://field.buzz/wp-content/uploads/2015/12/fb_logo_linear_white.png">
-</div>
-
-<div>
+<div style="background: #00a99d; text-align: center; color: #000; padding-bottom: 8px">
     <h2 align="center">Field Buzz Recruitment</h2>
-    <center><hr style="height: 2px; width: 100px; border: 2px solid #ff7b00; background: #ff7b00"/></center>
 </div>
 
 
@@ -63,9 +58,11 @@ pip and installed virtualenv python package in your machine.</p>
 
 <br>
 <hr>
+
 <h3>Find me around the web 🌎:</h3> 
 <a href="https://minulislam.xyz/"><img align="left" width="150" height="150" src="https://github.com/Shovon588/shovon588/blob/main/assets/octogif.gif"></a>
 <ul>
     <li>Get updates on my<a href="https://minulislam.xyz/" target="_blank"> Portfolio</a> 🕸</li>
     <li>Connect me in <a href="https://www.linkedin.com/in/mainulislam588/" target="_blank"> Linkedin</a> 💼</li>
 </ul>
+
